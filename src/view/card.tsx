@@ -1,5 +1,4 @@
 import { Thumb } from "./thumb.tsx";
-import { Robot } from "../types.ts";
 
 export function Card({ country, description, first_name, avatar }) {
   return (
